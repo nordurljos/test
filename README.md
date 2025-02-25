@@ -5,3 +5,9 @@ A test repository to learn github
 
 - create a remote repo on github
 - practice git
+
+## Authors
+
+- Mia Bennett
+- Unknown Soldiers
+
